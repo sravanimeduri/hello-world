@@ -26,7 +26,7 @@ Student ramya=new Student();
 ramya.rollnum=466;
 ramya.name="Ramya";
 ramya.sectionname="A";
-Student. schoolname="Z.P.H";
+Student.schoolname="Z.P.H";
 System.out.println("student Roll Number"+ramya.rollnum);
 System.out.println("student  Name"+ramya.name);
 System.out.println("student Section"+ramya.sectionname);

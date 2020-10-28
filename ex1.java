@@ -12,7 +12,7 @@ static String schoolname;
 
 
 class variable{
-public static void main(String args[ ] ){
+public static void main(String args[]){
 Employee ravi=new Employee();
 ravi.id=2020;
 ravi.salary=17000;

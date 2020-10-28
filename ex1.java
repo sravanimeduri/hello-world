@@ -30,7 +30,7 @@ Student.schoolname="Z.P.H";
 System.out.println("student Roll Number"+ramya.rollnum);
 System.out.println("student  Name"+ramya.name);
 System.out.println("student Section"+ramya.sectionname);
-System.out.println("student Schoolname"+Student. schoolname);
+System.out.println("student Schoolname"+Student.schoolname);
 
 }
 

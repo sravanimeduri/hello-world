@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/byte-buddy-1.10.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/dom4j-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/hibernate-core-5.4.25.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/jandex-2.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai/Documents/jar_files/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Manual/LiveTech Selenium Software/Jar-Files/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JRE-1.1"/>
+	<classpathentry kind="lib" path="D:/Manual/LiveTech Selenium Software/Jar-Files/Apache poi Jar Files/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
